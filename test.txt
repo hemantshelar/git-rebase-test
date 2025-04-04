@@ -1,2 +1,3 @@
 var conn = ""
-var conn = "mysecret connection string"
+var conn = "secrete removed"
+//last checkin
